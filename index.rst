@@ -10,7 +10,9 @@ Welcome to Tutorial to contribute to the CPython project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   getting_help.rst
+   build_cpython.rst
+   what_is_a_cpython_core_developer.rst
 
 Indices and tables
 ==================
