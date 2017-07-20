@@ -18,17 +18,11 @@ Welcome to Tutorial to contribute to the CPython project's documentation!
    open_bpo.rst
    write_pr.rst
    update_bpo_pr.rst
+   review.rst
+   ideas.rst
+   python_dev.rst
+   continuous_integration.rst
    what_is_a_cpython_core_developer.rst
-
-.. How to open a create your first Pull Request (PR) on GitHub
-
-.. Nobody reviewed my PR, why? How to make progress?
-.. Reviews PR written by others
-.. python-dev mailing list
-.. Propose a new idea: the python-ideas mailing list
-.. Say hello to CIs: Travis CI, AppVeyor, Buildbots
-.. XXX
-.. You are a core dev, congrats!
 
 Indices and tables
 ==================
