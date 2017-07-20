@@ -4,7 +4,7 @@ Tutorial to contribute to the CPython project.
 
 # Installation
 
-You need to use a installed version of [Sphinx](https://www.sphinx-doc.org).
+You need to use a installed version of [Sphinx](http://www.sphinx-doc.org/en/stable/).
 
 For that, you have two options. Firstly, use the sphinx package from your favorite distribution
 
@@ -23,7 +23,7 @@ apt-get install python3-sphinx
 
 # Compilation
 
-Once you have an installed version of [Sphinx](https://www.sphinx-doc.org), you can build the documentation.
+Once you have an installed version of [Sphinx](http://www.sphinx-doc.org/en/stable/), you can build the documentation.
 
 ```bash
 make html
