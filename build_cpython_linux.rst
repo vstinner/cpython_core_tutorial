@@ -22,14 +22,15 @@ Get tools and dependencies
 
   * Fedora:
 
-    * Fedora 25:
+    * version based on ``yum``::
 
-      * ``sudo yum install yum-utils``
-      * ``sudo yum-builddep python3``
+        $ sudo yum install yum-utils
+        $ sudo yum-buildep python3
 
-    * Fedora 26:
+    * version based on ``dnf``::
 
-      * ``sudo dnf builddep python3``
+        $ sudo dnf install dnf-plugins-core
+        $ sudo dnf builddep python3
 
   * Debian: ``sudo apt-get build-dep python3``
   * Dependencies to get ``ssl`` and ``readline`` modules: OpenSSL headers
