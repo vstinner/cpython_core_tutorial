@@ -20,12 +20,20 @@ Get tools and dependencies
 
 * Get CPython dependencies:
 
-  * Fedora: ``sudo yum-builddep python3``
+  * Fedora:
+
+    * Fedora 25:
+
+      * ``sudo yum install yum-utils``
+      * ``sudo yum-builddep python3``
+
+    * Fedora 26:
+
+      * ``sudo dnf builddep python3``
+
   * Debian: ``sudo apt-get build-dep python3``
   * Dependencies to get ``ssl`` and ``readline`` modules: OpenSSL headers
     (openssl-dev) and readline headers (libreadline-dev).
-
-* XXX install gcc, make, autotools?
 
 Build Python
 ------------
