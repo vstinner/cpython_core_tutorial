@@ -48,7 +48,14 @@ Or detailed instructions:
 * Build CPython: ``make``
 * There is no need to install Python.
 
-XXX how to check "setup" output and detect missing dependencies?
+For example, with a missing dependency, the `make` command will show the optional modules which do not compile
+
+.. code-block:: text
+
+    The necessary bits to build these optional modules were not found:
+    _lzma
+
+In this case, you have to install the `xz` library. For Fedora 25 and 26, it's ``xz-devel``, but normally, this dependency is installed with ``builddep python3``. For Debian/Ubuntu, this dependency should be installed with ``apt-get build-dep python3``
 
 Test Python
 -----------
