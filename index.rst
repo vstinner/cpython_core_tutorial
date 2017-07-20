@@ -12,6 +12,7 @@ Welcome to Tutorial to contribute to the CPython project's documentation!
 
    getting_help.rst
    build_cpython.rst
+   run_tests.rst
    what_is_a_cpython_core_developer.rst
 
 Indices and tables
