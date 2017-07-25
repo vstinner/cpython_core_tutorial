@@ -66,7 +66,9 @@ Manually
 --------
 
 * git push origin HEAD
-* Open https://github.com/haypo/cpython and click on XXX
+* Open https://github.com/python/cpython and click on "New pull request"
+* Select the base fork: ``python/cpython`` and base branch: ``master``
+* Select the head fork: ``<username>/cpython`` and base branch: the branch
+* Press ``Create Pull Request`` button
 
-Use XXX to push your pull request.
-
+For more information: please, you could read `this section <https://devguide.python.org/gitbootcamp/#creating-a-pull-request>`_ of the devguide
