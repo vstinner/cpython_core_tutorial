@@ -33,7 +33,7 @@ Sign the Python Contributor Agreement.
 * Wait... the confirmation is done manually by humans, so be prepared to wait
   up to one week (usually 3 business days)
 
-For legal question, see XXX mailing list.
+For legal question, see the `python legal <https://mail.python.org/mailman/listinfo/python-legal-sig>`_ mailing list.
 
 
 Create a local Git branch
