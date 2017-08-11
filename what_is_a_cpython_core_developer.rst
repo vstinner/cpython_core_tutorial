@@ -46,6 +46,8 @@ Python branches
 * Know the CPython workflow
 * For C developer: know Python specific issues like reference leaks (and the
   garbage collector)
+* Good quality patches: proposed changes are good (or almost good) at the first
+  iteration
 
 CPython has a long history and many unwritten strict rules. For example,
 backward compatibility is taken very seriously. We don't remove public
