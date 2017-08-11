@@ -95,6 +95,27 @@ contributor will never become a core dev, just that he/she needs more practice.
 If the vote is positive, the contributor sends his/her SSH key and will be
 subscribed to the python-committers mailing list.
 
+Examples of votes:
+
+* `Proposing Carol Willing to become a core developer
+  <https://mail.python.org/pipermail/python-committers/2017-May/004519.html>`_
+  (Brett Cannon, May 2017)
+* `Proposed new core developer -- Mariatta Wijaya
+  <https://mail.python.org/pipermail/python-committers/2017-January/004175.html>`_
+  (Raymond Hettinger, January 2017)
+* `Promote Xiang Zhang as a core developer
+  <https://mail.python.org/pipermail/python-committers/2016-November/004045.html>`_
+  (Victor Stinner, Nov 2016)
+* `commit privileges for INADA Naoki
+  <https://mail.python.org/pipermail/python-committers/2016-September/004013.html>`_
+  (Yury Selivanov, Sept 2016)
+
+Other votes:
+
+* `commit privs given to Maciej Szulik for bugs.python.org work
+  <https://mail.python.org/pipermail/python-committers/2016-December/004121.html>`_
+  (Brett Cannon, December 2016): https://hg.python.org/tracker/ repository
+
 We Are All Volunteers
 ---------------------
 
