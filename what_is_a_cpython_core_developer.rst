@@ -6,8 +6,8 @@ Devguide: `How to Become a Core Developer
 <https://devguide.python.org/coredev/>`_
 
 See `[python-committers] What is a CPython core developer?
-<https://mail.python.org/pipermail/python-committers/2017-September/004865.html>`
-(Sept 2017)_
+<https://mail.python.org/pipermail/python-committers/2017-September/004865.html>`_
+(Sept 2017).
 
 python-committers
 =================
