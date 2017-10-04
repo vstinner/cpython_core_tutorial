@@ -11,7 +11,7 @@ Welcome to Tutorial to contribute to the CPython project's documentation!
    :caption: Contents:
 
    getting_help.rst
-   build_cpython.rst
+   getting_started.rst
    code_of_conduct.rst
    run_tests.rst
    write_python_fix.rst
