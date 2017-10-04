@@ -2,6 +2,8 @@
 Write your first Pull Request
 +++++++++++++++++++++++++++++
 
+Required badge: "community".
+
 Create your GitHub account
 ==========================
 
@@ -72,3 +74,5 @@ Manually
 * Press ``Create Pull Request`` button
 
 For more information: please, you could read `this section <https://devguide.python.org/gitbootcamp/#creating-a-pull-request>`_ of the devguide
+
+Given badge: "first pr".

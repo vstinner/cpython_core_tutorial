@@ -2,6 +2,8 @@
 Open your first issue on bugs.python.org
 ++++++++++++++++++++++++++++++++++++++++
 
+Required badge: "community".
+
 Create your account
 ===================
 
@@ -37,3 +39,5 @@ Feature request
 XXX
 
 Congrats! Next section: XXX
+
+Badge: "first bpo created".
