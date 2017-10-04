@@ -1,5 +1,5 @@
 +++++++++++++++++++++++++++
-Write your first fix Python
+Write your first Python fix
 +++++++++++++++++++++++++++
 
 Goal: be able to write a Python fix with an unit test, but not publish it.

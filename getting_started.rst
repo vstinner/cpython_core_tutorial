@@ -11,7 +11,7 @@ Requirements:
 * Know CPython, Git and the C compiler of your operating system
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    build_cpython_linux.rst

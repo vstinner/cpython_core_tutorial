@@ -14,3 +14,5 @@ Community Code of Conduct <https://www.python.org/psf/codeofconduct/>`_.
 
 See also `Proposal for procedures regarding CoC actions
 <https://mail.python.org/pipermail/python-committers/2017-May/004486.html>`_.
+
+Action: [ Click to confirm that you read the code of conduct :-) ]

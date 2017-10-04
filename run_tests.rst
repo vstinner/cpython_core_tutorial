@@ -2,8 +2,8 @@
 Run tests
 +++++++++
 
-Bug
-===
+Introduce a Bug
+===============
 
 Instead of trying to write new code, let's start by writing a bug!
 
@@ -79,6 +79,10 @@ Fix the bug
 
 * Modify Lib/http/server.py to remove ``bug``.
 * Re-run test_post() test
+
+Run the whole test suite
+========================
+
 * Re-run all test_httpservers tests
 * Run the whole test suite
 
