@@ -14,10 +14,10 @@ Welcome to Tutorial to contribute to the CPython project's documentation!
    getting_started.rst
    community.rst
    run_tests.rst
-   write_python_fix.rst
-   write_c_fix.rst
+   python_fix.rst
+   c_fix.rst
    open_bpo.rst
-   write_pr.rst
+   pr.rst
    update_bpo_pr.rst
    review.rst
    ideas.rst
