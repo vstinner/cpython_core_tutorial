@@ -86,7 +86,7 @@ Show a bit of humility towards existing work and try to understand the
 decisions behind something before deciding to change it all.  That said,
 given Python's current position on the technical evolution and adoption
 curve, we get less and less proposals for sweeping changes (perhaps not
-enough, actually, since even when rejected, they help challenge the statu
+enough, actually, since even when rejected, they help challenge the status
 quo).
 
 Long term commitement
@@ -171,24 +171,24 @@ Vote to promote a contributor as a core developer
 Identify a potential candidate
 ------------------------------
 
-Usually the contributor doesn't ask himself/herself to become a core developer,
-but another core developer proposes to promote him/her.
+Usually the contributor doesn't ask for themselves to become a core developer,
+but another core developer proposes to promote them.
 
 The main questions about a potential new core developer are:
 
 * Would gaining core developer privileges improve their ability to contribute
   effectively (in my opinion or the opinion of another core developer)?
 
-* Do a core developer that is willing to mentor him/her trust their judgment on
+* Do a core developer that is willing to mentor them trust their judgment on
   when things should be escalated for further review & discussion (or even
   rejected outright) versus just going ahead and merging them?
 
 Ask the candidate permission
 ----------------------------
 
-The first step is to ask the contributor if he/she wants to become a core
-developer. Since great power comes with great responsabilities, it's not
-uncommon that some contribtors prefer to remain contributors. Technically, it
+The first step is to ask the contributor if they want to become a core
+developer. Since great power comes with great responsibilities, it's not
+uncommon that some contributors prefer to remain contributors. Technically, it
 doesn't prevent to propose pull requests, reviews, etc.
 
 Private vote
@@ -211,7 +211,7 @@ very short biography, list previous contributions and evaluates the contributor
 skills.
 
 A negative vote can still happen at this point. It doesn't mean that the
-contributor will never become a core dev, just that he/she needs more practice.
+contributor will never become a core dev, just that they need more practice.
 
 Vote result
 -----------
