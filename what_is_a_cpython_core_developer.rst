@@ -60,7 +60,7 @@ Officially, other core developers don't expect and cannot expect anything from
 a developer.
 
 The unwritten definition is that other core developers expect from a core
-developer to maintain his/her contributions: long term *commitement*, since
+developer to maintain their contributions: long term *commitement*, since
 CPython requires long term support: 5 years or longer. If a core developer
 writes a new large chunk of code but then disappears for whatever reasons,
 there is a risk that the code dies slowly.
@@ -199,7 +199,7 @@ discussion is private because it's tricky to discuss someone skills in public.
 A negative vote can be harmful, whereas it isn't the intend.
 
 Sometimes, the contributor is evaluated as "too green" and someone can propose
-to become his mentor to help him to learn the workflow, give advices on pull
+to become their mentor to help them to learn the workflow, give advices on pull
 requests, etc.
 
 Public vote
@@ -216,7 +216,7 @@ contributor will never become a core dev, just that he/she needs more practice.
 Vote result
 -----------
 
-If the vote is positive, the contributor sends his/her SSH key and will be
+If the vote is positive, the contributor sends their SSH key and will be
 subscribed to the python-committers mailing list.
 
 Examples of public votes
