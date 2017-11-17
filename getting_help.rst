@@ -21,7 +21,7 @@ months.
 Developers available to mentor new contributors:
 
 * Victor Stinner, lives in France, works for Red Hat, core dev since 2010.
-  IRC nickname: ``haypo`` on Freenode.
+  IRC nickname: ``vstinner`` on Freenode.
   Timezone: `France (Paris) local clock <https://www.timeanddate.com/worldclock/france/paris>`_.
 
 #python-dev channel
@@ -32,7 +32,7 @@ The IRC ``#python-dev`` channel of the `Freenode server
 
 Some nicknames:
 
-* ``haypo``: Victor Stinner
+* ``vstinner``: Victor Stinner (previously known as ``haypo``)
 
 Core-mentorship mailing list
 ----------------------------
