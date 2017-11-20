@@ -12,7 +12,7 @@ The short term goal is to fill the gap in the current devguide between
 Document all the things expected to be known to become a core developer.
 
 See also `Brainstorm: CPython tutorial
-<https://haypo-notes.readthedocs.io/brainstorm_cpython_tutorial.html>`_.
+<https://vstinner.readthedocs.io/brainstorm_cpython_tutorial.html>`_.
 
 # Gamification
 
