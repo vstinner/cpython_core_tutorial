@@ -37,15 +37,15 @@ We expect that tests fail::
     ERROR: test_post (test.test_httpservers.CGIHTTPServerTestCase)
     ----------------------------------------------------------------------
     Traceback (most recent call last):
-      File "/home/haypo/prog/python/master/Lib/test/test_httpservers.py", line 726, in test_post
+      File ".../Lib/test/test_httpservers.py", line 726, in test_post
         res = self.request('/cgi-bin/file2.py', 'POST', params, headers)
-      File "/home/haypo/prog/python/master/Lib/test/test_httpservers.py", line 79, in request
+      File ".../Lib/test/test_httpservers.py", line 79, in request
         return self.connection.getresponse()
-      File "/home/haypo/prog/python/master/Lib/http/client.py", line 1322, in getresponse
+      File ".../Lib/http/client.py", line 1322, in getresponse
         response.begin()
-      File "/home/haypo/prog/python/master/Lib/http/client.py", line 296, in begin
+      File ".../Lib/http/client.py", line 296, in begin
         version, status, reason = self._read_status()
-      File "/home/haypo/prog/python/master/Lib/http/client.py", line 265, in _read_status
+      File ".../Lib/http/client.py", line 265, in _read_status
         raise RemoteDisconnected("Remote end closed connection without"
     http.client.RemoteDisconnected: Remote end closed connection without response
 
@@ -60,7 +60,7 @@ Re-run only the failing method::
 
 Find the code of the failing tests, see most recent call in the traceback::
 
-      File "/home/haypo/prog/python/master/Lib/test/test_httpservers.py", line 726, in test_post
+      File ".../Lib/test/test_httpservers.py", line 726, in test_post
         res = self.request('/cgi-bin/file2.py', 'POST', params, headers)
 
 Open Lib/test/test_httpservers.py line 726::
