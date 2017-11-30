@@ -2,6 +2,8 @@
 Documentation of CPython internals
 ++++++++++++++++++++++++++++++++++
 
+* The official `Python Developer’s Guide
+  <https://devguide.python.org/>`_
 * Prashanth Raghu's documentation:
 
   * `Internals of CPython 2.7

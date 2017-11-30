@@ -12,6 +12,7 @@ Welcome to Tutorial to contribute to the CPython project's documentation!
 
    getting_help.rst
    getting_started.rst
+   where_should_i_start.rst
    community.rst
    run_tests.rst
    python_fix.rst
