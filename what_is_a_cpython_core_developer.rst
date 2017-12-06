@@ -49,6 +49,75 @@ The main power of a core developer is to be allowed to merge a pull request.
 New powers comes with new responsabilities. Merging a pull request indirectly
 means becoming responsible of the added and modified code.
 
+Bug tracker
+===========
+
+See `Helping Triage Issues <https://devguide.python.org/tracker/#helptriage>`_
+and `Triaging an Issue <https://devguide.python.org/triaging/>`_.
+
+Requirements to get the bug triage permission
+---------------------------------------------
+
+Requirements:
+
+* Be nice, polite and respectful
+* Know what they are talking about, and explain their reasoning well.
+  Contributions to the bug tracker that demonstrate an understanding of our
+  code culture...specifically, commenting that a bug should be closed (and why)
+  and demonstrating an understanding of what python versions a bug applies to
+  (enhancement versus bug fix, when to backport a bug fix and when not).  See
+  the `Status of Python branches
+  <https://devguide.python.org/#status-of-python-branches>`_
+* Don't close a bug if it's not well understood to not "loose" information
+  (closed bugs are ignored in search by default, and hidden from the main
+  page).
+
+A good triager must be familiar with our codebase, our bug tracker,
+and our "code culture", in particular:
+
+* being able to find (or remember) duplicate and related issues, link
+  them to each other, and closing the duplicates as necessary;
+* being able to correctly select the versions affected by the issue,
+  the components, the stage, and other fields;
+* being able to verify if the issue can be reproduced and if the
+  report is valid or not;
+* being able to recognize commonly reported issues and link to the
+  appropriate FAQ or other existing issues/explanations;
+* being able to identify and specify the next step, possibly
+  suggesting which files should be updated to fix the issue;
+* being able to locate the commits that might have introduced the
+  issue, and the reason for the change;
+* being able to leave meaningful opinions on the issue (e.g. whether
+  it should be addressed or closed and why);
+
+It usually takes some time and a few contributions before people can
+do these things.
+
+Responsability for bug tracker:
+
+* Request more information if a report is incomplete
+* Ping original reporters if they don't reply
+* Adjust Python version, component, bug type, etc.
+* Rewrite the issue title if needed
+* Close duplicated bugs as DUPLICATE
+* Close irrevelant bugs as NOTABUG
+
+Nice to have, but not a strong requirement:
+
+* Signed the CLA
+* At least one commit merged into CPython
+
+
+Give bug triage permission to a contributor
+-------------------------------------------
+
+A core developer has to identify an active contributor on the bug tracker, or a
+contributor can also ask for more power themselves.
+
+If the contributor reachs the requirements listed in the previous section, the
+core developer give them triage.
+
+
 Requirements to become a core developer
 =======================================
 
