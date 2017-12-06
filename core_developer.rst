@@ -315,6 +315,13 @@ Other votes:
   <https://mail.python.org/pipermail/python-committers/2016-December/004121.html>`_
   (Brett Cannon, December 2016): https://hg.python.org/tracker/ repository
 
+Gaining Commit Privileges
+-------------------------
+
+See `DevGuide: Gaining Commit Privileges
+<https://devguide.python.org/coredev/#gaining-commit-privileges>`_.
+
+
 We Are All Volunteers
 =====================
 
