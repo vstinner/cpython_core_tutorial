@@ -32,12 +32,12 @@ Different stages of core developers
 * Newcomer
 * Contributor: as soon as you post a comment, send an email, ask a question,
   you become an active contributor!
-* Permission for bug triage: once peers estimated that your behaviour is
-  correct and that you are active, you may be proposed to be promoted to
-  "bug triage"
-* Followed by a mentor: spotted active contributors can be asked to get a
+* :ref:`Permission for bug triage <triage>`: once peers estimated that your
+  behaviour is correct and that you are active, you may be proposed to be
+  promoted to "bug triage"
+* :ref:`Followed by a mentor <menthor>`: spotted active contributors can be asked to get a
   mentor to speedup their learning
-* Core developer, allowed to merge a pull request: once other core developers
+* :ref:`Core developer <core-dev>`, allowed to merge a pull request: once other core developers
   consider that a contributor is ready to be promoted, a core dev opens
   a vote on python-committers
 
@@ -48,6 +48,8 @@ The main power of a core developer is to be allowed to merge a pull request.
 
 New powers comes with new responsabilities. Merging a pull request indirectly
 means becoming responsible of the added and modified code.
+
+.. _triage:
 
 Bug tracker
 ===========
@@ -117,6 +119,15 @@ contributor can also ask for more power themselves.
 If the contributor reachs the requirements listed in the previous section, the
 core developer give them triage.
 
+.. _menthor:
+
+Mentoring
+=========
+
+XXX see :ref:`Getting help <help>`.
+
+
+.. _core-dev:
 
 Requirements to become a core developer
 =======================================
@@ -227,12 +238,6 @@ Be patient
 
 Be patient, being aware of Python complex code and workflow can take between 6
 months and 2 years.
-
-Bug triage
-==========
-
-Contributors active on the bug tracker are sometimes proposed to get the right
-to "triage" the bug tracker, like closing issues.
 
 Vote to promote a contributor as a core developer
 =================================================
