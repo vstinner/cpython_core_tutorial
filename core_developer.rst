@@ -70,7 +70,7 @@ Requirements:
   (enhancement versus bug fix, when to backport a bug fix and when not).  See
   the `Status of Python branches
   <https://devguide.python.org/#status-of-python-branches>`_
-* Don't close a bug if it's not well understood to not "loose" information
+* Don't close a bug if it's not well understood to not "lose" information
   (closed bugs are ignored in search by default, and hidden from the main
   page).
 
