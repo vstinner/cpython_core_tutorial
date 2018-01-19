@@ -2,6 +2,10 @@
 Contribute to CPython: where should I start?
 ++++++++++++++++++++++++++++++++++++++++++++
 
+CPython core isn't the easiest place to start. The development process is
+rather enterprisy with long release cycles and rigid backwards compatibility
+policy. CPython also support a lot of platforms and CPU architectures.
+
 How can you start? Where? That's an hard question. CPython is old and widely
 used: any change must be carefully discussed to remain Python homogenous.
 For bug fixes, the most complex part is the backward compatibility.
