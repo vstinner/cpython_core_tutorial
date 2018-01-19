@@ -21,6 +21,8 @@ to get some ideas.
 * You may also look at ideas currently discussed on the
   https://mail.python.org/mailman/listinfo/python-ideas mailing list
 
+To find an easy issue, persistence is the key :-)
+
 Contribute to CPython? What is CPython? CPython is made of many parts:
 
 * CPython source code: basically made of 50% Python and 50% C code
