@@ -21,8 +21,13 @@ months.
 Developers available to mentor new contributors:
 
 * Victor Stinner, lives in France, works for Red Hat, core dev since 2010.
-  IRC nickname: ``vstinner`` on Freenode.
-  Timezone: `France (Paris) local clock <https://www.timeanddate.com/worldclock/france/paris>`_.
+    - IRC nickname: ``vstinner`` on Freenode.
+    - Timezone: `France (Paris) local clock <https://www.timeanddate.com/worldclock/france/paris>`_.
+
+* Zachary (Zach) Ware, living in the US (midwest), working as an independent
+  consultant, core dev since 2013.
+    - IRC nickname: ``zware`` on Freenode.
+    - Timezone: `US/Central <https://www.timeanddate.com/worldclock/usa/chicago>`_.
 
 #python-dev channel
 -------------------
@@ -33,6 +38,8 @@ The IRC ``#python-dev`` channel of the `Freenode server
 Some nicknames:
 
 * ``vstinner``: Victor Stinner (previously known as ``haypo``)
+
+* ``zware``: Zach Ware
 
 Core-mentorship mailing list
 ----------------------------
