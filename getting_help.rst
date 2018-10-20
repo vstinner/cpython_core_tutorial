@@ -41,6 +41,8 @@ Some nicknames:
 
 * ``zware``: Zach Ware
 
+* ``matrixise``: Stéphane Wirtel
+
 Core-mentorship mailing list
 ----------------------------
 
@@ -58,6 +60,10 @@ Contributors
 
 Contributors are also encouraged to help other contributors since new comers
 are the most experienced in issues to start contributing for CPython :-)
+
+* Stéphane Wirtel, living in Belgium, working as an independent consultant, contributor since 2014.
+  IRC nickname: ``matrixise`` on Freenode.
+  Timezone: `Europe/Brussels <https://www.timeanddate.com/worldclock/belgium/brussels>`_.
 
 Looking for help on a specific Python module
 --------------------------------------------
