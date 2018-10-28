@@ -132,6 +132,10 @@ XXX see :ref:`Getting help <help>`.
 Requirements to become a core developer
 =======================================
 
+   "*A core dev should know not only what changes should be made, but also
+   (and this is more important) what changes should not be made.*"
+   -- Serhiy Storchaka
+
 The historical definition is that CPython core developer has the *commit bit*,
 is able to push a change to *upstream*, to the `GitHub cpython project
 <https://github.com/python/cpython/>`_.
