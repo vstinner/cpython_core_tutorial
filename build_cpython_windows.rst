@@ -25,7 +25,7 @@ Build CPython
 * Open ``PCbuild/pcbuild.sln`` solution
 * Select ``Debug`` and ``x64`` (64-bit)
 * Right click on the solution: Build, or just "F10"
-* Close Visual Studioo
+* Close Visual Studio
 
 Run Python
 ----------
