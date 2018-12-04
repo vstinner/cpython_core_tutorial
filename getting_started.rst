@@ -5,6 +5,7 @@ Goals:
 
 * Get a running Python executable built manually
 * Run basic sanity checks to make sure that your executable is working
+* If the goal is make contribution to CPython first fork the project
 
 Requirements:
 
@@ -14,6 +15,7 @@ Requirements:
    :maxdepth: 1
    :caption: Contents:
 
+   fork_cpython.rst
    build_cpython_linux.rst
    build_cpython_windows.rst
    build_cpython_macos.rst
