@@ -13,13 +13,8 @@ Documentation of CPython internals
   * `Advanced Internals of CPython 3.6
     <https://intopythoncom.files.wordpress.com/2017/04/merged.pdf>`_
 
-* Victor Stinner's documentations:
-
-  * `CPython
-    <http://vstinner.readthedocs.io/cpython.html>`_
-  * `Compile CPython on Windows
-    <http://vstinner.readthedocs.io/cpython_windows.html>`_
-
+* `Python Development Documentation
+  <https://pythondev.readthedocs.io/>`_ by Victor Stinner
 * `CPython internals: A ten-hour codewalk through the Python interpreter source
   code <http://pgbovine.net/cpython-internals.htm>`_
   (October 2014) by Philip Guo
