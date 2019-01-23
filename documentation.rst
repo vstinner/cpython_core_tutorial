@@ -19,3 +19,7 @@ Documentation of CPython internals
     <http://vstinner.readthedocs.io/cpython.html>`_
   * `Compile CPython on Windows
     <http://vstinner.readthedocs.io/cpython_windows.html>`_
+
+* `CPython internals: A ten-hour codewalk through the Python interpreter source
+  code <http://pgbovine.net/cpython-internals.htm>`_
+  (October 2014) by Philip Guo
