@@ -73,7 +73,7 @@ maintainers for the some but not all Python modules.
 
 
 Documentation of CPython internals
-==================================
+----------------------------------
 
 See `Documentation of CPython internals
 <https://pythondev.readthedocs.io/internals.html>`_.
