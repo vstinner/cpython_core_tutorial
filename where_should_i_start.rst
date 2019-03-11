@@ -6,7 +6,7 @@ CPython core isn't the easiest place to start. The development process is
 rather enterprisy with long release cycles and rigid backwards compatibility
 policy. CPython also support a lot of platforms and CPU architectures.
 
-How can you start? Where? That's an hard question. CPython is old and widely
+How can you start? Where? That's a hard question. CPython is old and widely
 used: any change must be carefully discussed to remain Python homogenous.
 For bug fixes, the most complex part is the backward compatibility.
 
@@ -55,7 +55,7 @@ to another popular project like Django or requests.
 Contributing to CPython is harder because CPython developers require a very
 high quality for contributions: every change must be carefully documented,
 tested and implemented. The implementation can take several rounds until it
-reachs the expected quality and respect a long list of requirements.
+reaches the expected quality and respects a long list of requirements.
 
 Ok, I understand and I am well aware of all these things. But I want to
 contribute, how should I start?
@@ -86,12 +86,12 @@ contribute, how should I start?
     it in version N+1. It's common that a feature is kept longer to avoid
     breaking the world just being a developer wants the perfection.
     Python developers must be pragmatic: balance between perfection and
-    usability, very hard choices should be made and usually it takes a a long
+    usability, very hard choices should be made and usually it takes a long
     to time to discuss them :-)
-  * While Python 2 end of line is near (2020), Python 3 changes which make
+  * While Python 2 end of life is near (2020), Python 3 changes which make
     writing code working on Python 2 and Python 3 harder are usually rejected.
 
 * Propose to write a bugfix change (a pull request) for an existing bug report.
   This task is very hard since usually if a bug report doesn't have a patch,
-  it's because there is a disagrement on the bug itself, or because the bugfix
+  it's because there is a disagreement on the bug itself, or because the bugfix
   is very hard to implement.
