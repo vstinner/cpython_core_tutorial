@@ -92,6 +92,6 @@ Run the whole test suite::
 
 Flags:
 
-* -j0: run tests in parallel using as many test processes than your CPUs
+* -j0: run tests in parallel using as many test processes as your CPU permits
 * -r: randomize tests
-* -W: hide test output on success, but write tests output on failure
+* -W: hide tests output on success, but show on failure
