@@ -14,7 +14,7 @@ python-committers
 
 While the `python-committers mailing list
 <https://mail.python.org/mailman/listinfo/python-committers>`_ is public
-(anyone can be archives), only core developers are allowed to subscribe and to
+(anyone can read the archives), only core developers are allowed to subscribe and to
 send messages.
 
 Who are core developers?
