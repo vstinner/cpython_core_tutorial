@@ -9,4 +9,4 @@ The repository on GitHub has a page for the `Pull Requests <https://github.com/p
 
 For example, we prefer to review the `PR where the CLA is signed <https://github.com/python/cpython/pulls?q=is%3Aopen+is%3Apr+label%3A%22CLA+signed%22>`_
 
-Usually, if the CLA is not signed by the contributor, we prefer to ask to sign the document and wait for 3 business days, it's bugs.python.org account will then be updated.
+Usually, if the CLA is not signed by the contributor, we prefer to ask to sign the document and wait for 3 business days, its bugs.python.org account will then be updated.
