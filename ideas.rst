@@ -2,7 +2,7 @@
 Propose new idea
 ++++++++++++++++
 
-To propose new ideas, the python-ideas mailing list is the good place.
+To propose new ideas, the python-ideas mailing list is the appropriate place.
 
 * `The python-idea mailing list
   <https://mail.python.org/mailman/listinfo/python-ideas>`_
