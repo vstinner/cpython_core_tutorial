@@ -10,7 +10,7 @@ complain, ask for help, and report issues!
 Active Core Developers
 ----------------------
 
-While the CPython developers has more than 100 core developers, some of them
+While the CPython team has more than 100 core developers, some of them
 "left" the project and are no more active.
 
 `GitHub statistics on contributors
