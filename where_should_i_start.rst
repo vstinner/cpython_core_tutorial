@@ -7,7 +7,7 @@ rather enterprisy with long release cycles and rigid backwards compatibility
 policy. CPython also support a lot of platforms and CPU architectures.
 
 How can you start? Where? That's a hard question. CPython is old and widely
-used: any change must be carefully discussed to remain Python homogenous.
+used: any change must be carefully discussed to remain Python homogeneous.
 For bug fixes, the most complex part is the backward compatibility.
 
 It's very hard to find "easy issue". First, just **watch** the current activity
