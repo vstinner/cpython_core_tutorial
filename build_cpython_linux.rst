@@ -32,7 +32,7 @@ Get tools and dependencies
         $ sudo dnf install dnf-plugins-core
         $ sudo dnf builddep python3
 
-  * Debian: ``sudo apt-get build-dep python3``
+  * Debian: ``sudo apt-get build-dep -y python3``
   * Dependencies to get ``ssl`` and ``readline`` modules: OpenSSL headers
     (openssl-dev) and readline headers (libreadline-dev).
 
