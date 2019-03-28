@@ -33,6 +33,13 @@ Get tools and dependencies
         $ sudo dnf builddep python3
 
   * Debian: ``sudo apt-get build-dep python3``
+
+    .. note::
+
+       If you can not install the dependencies of ``python3``, maybe you should
+       check if you have a ``deb-src`` entry for your packages in
+       ``/etc/apt/sources.list``.
+
   * Dependencies to get ``ssl`` and ``readline`` modules: OpenSSL headers
     (openssl-dev) and readline headers (libreadline-dev).
 
