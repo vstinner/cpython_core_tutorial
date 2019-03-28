@@ -24,13 +24,13 @@ Get tools and dependencies
 
     * version based on ``yum``::
 
-        $ sudo yum install yum-utils
-        $ sudo yum-buildep python3
+        $ sudo yum install -y yum-utils
+        $ sudo yum-buildep -y python3
 
     * version based on ``dnf``::
 
-        $ sudo dnf install dnf-plugins-core
-        $ sudo dnf builddep python3
+        $ sudo dnf install -y dnf-plugins-core
+        $ sudo dnf builddep -y python3
 
   * Debian: ``sudo apt-get build-dep -y python3``
 
