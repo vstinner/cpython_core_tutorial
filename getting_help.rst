@@ -70,10 +70,3 @@ Looking for help on a specific Python module
 
 The `Expert Index <https://docs.python.org/devguide/experts.html>`_ lists
 maintainers for the some but not all Python modules.
-
-
-Documentation of CPython internals
-----------------------------------
-
-See `Documentation of CPython internals
-<https://pythondev.readthedocs.io/internals.html>`_.

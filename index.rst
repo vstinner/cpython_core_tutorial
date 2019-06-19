@@ -25,6 +25,7 @@ Welcome to Tutorial to contribute to the CPython project's documentation!
    python_dev.rst
    continuous_integration.rst
    core_developer.rst
+   internals.rst
 
 Indices and tables
 ==================
