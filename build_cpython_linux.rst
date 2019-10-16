@@ -25,7 +25,7 @@ Get tools and dependencies
     * version based on ``yum``::
 
         $ sudo yum install -y yum-utils
-        $ sudo yum-buildep -y python3
+        $ sudo yum-builddep -y python3
 
     * version based on ``dnf``::
 
