@@ -41,12 +41,12 @@ Different stages of core developers
   consider that a contributor is ready to be promoted, a core dev opens
   a vote on python-committers
 
-New powers but also new responsabilities
+New powers but also new responsibilities
 ========================================
 
 The main power of a core developer is to be allowed to merge a pull request.
 
-New powers comes with new responsabilities. Merging a pull request indirectly
+New powers comes with new responsibilities. Merging a pull request indirectly
 means becoming responsible of the added and modified code.
 
 .. _triage:
@@ -63,10 +63,10 @@ Requirements to get the bug triage permission
 Requirements:
 
 * Be nice, polite and respectful
-* Know what they are talking about, and explain their reasoning well.
-  Contributions to the bug tracker that demonstrate an understanding of our
+* Know what you are talking about, and explain your reasoning well.
+  Contributions to the bug tracker should demonstrate an understanding of our
   code culture...specifically, commenting that a bug should be closed (and why)
-  and demonstrating an understanding of what python versions a bug applies to
+  and demonstrating an understanding of what Python versions a bug applies to
   (enhancement versus bug fix, when to backport a bug fix and when not).  See
   the `Status of Python branches
   <https://devguide.python.org/#status-of-python-branches>`__
@@ -144,7 +144,7 @@ Officially, other core developers don't expect and cannot expect anything from
 a developer.
 
 The unwritten definition is that other core developers expect from a core
-developer to maintain their contributions: long term *commitement*, since
+developer to maintain their contributions: long term *commitment*, since
 CPython requires long term support: 5 years or longer. If a core developer
 writes a new large chunk of code but then disappears for whatever reasons,
 there is a risk that the code dies slowly.
@@ -173,13 +173,13 @@ curve, we get less and less proposals for sweeping changes (perhaps not
 enough, actually, since even when rejected, they help challenge the status
 quo).
 
-Long term commitement
+Long term commitment
 ---------------------
 
 When someone lands a big chunk of code, we need someone to maintain it for at
 least the next 2 years. Maybe for the next 10 years.
 
-It is not strictly a requirement, it's more a whish from other core developers.
+It is not strictly a requirement, it's more a wish from other core developers.
 
 Reviews
 -------
