@@ -27,6 +27,8 @@ Welcome to Tutorial to contribute to the CPython project's documentation!
    core_developer.rst
    internals.rst
 
+Contribute to these documents `at Github <https://github.com/vstinner/cpython_core_tutorial>`_.
+
 Indices and tables
 ==================
 
