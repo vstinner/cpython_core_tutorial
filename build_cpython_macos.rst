@@ -10,26 +10,38 @@ See also :ref:`Build CPython on Linux <build-cpython-linux>`.
 Get tools and dependencies
 --------------------------
 
+* Run ``sudo xcode-select --install`` to install the XCode Command Line Tools,
+  which includes compilers and ``make``
 * `Install homebrew <https://brew.sh/>`_
 * Install `Git <https://git-scm.com/>`_: ``brew install git``
-* XXX install OpenSSL
-* XXX install readline
-* XXX install gcc, make, autotools?
+* Install OpenSSL: ``brew install openssl``
+* Install readline: ``brew install readline``
+* Clone the `GitHub cpython project <https://github.com/python/cpython/>`_: ``git clone
+  https://github.com/python/cpython.git`` which creates a ``cpython/`` directory.
+  The history starts in 1991 so be patient, the clone can take several minutes!
 
 Build CPython
 -------------
 
-Single command::
+Single command (copy and paste the whole thing, including backslashes!)::
 
-    ./configure --with-pydebug && make
+    PKG_CONFIG_PATH="$(brew --prefix openssl)/lib/pkgconfig" \
+    CPPFLAGS="-I$(brew --prefix readline)/include" \
+    LDFLAGS="-L$(brew --prefix readline)/lib" \
+    ./configure --with-pydebug \
+    && make
 
-Or detailed instructions:
+Or, in separate steps:
 
-* Configuration Python in debug mode: ``./configure --with-pydebug``
+* Tell Python where to find the libraries you installed with Homebrew::
+
+    export PKG_CONFIG_PATH="$(brew --prefix openssl)/lib/pkgconfig"
+    export CPPFLAGS="-I$(brew --prefix readline)/include"
+    export LDFLAGS="-L$(brew --prefix readline)/lib"
+
+* Configure Python in debug mode: ``./configure --with-pydebug``
 * Build CPython: ``make``
 * There is no need to install Python.
-
-XXX how to check "setup" output and detect missing dependencies?
 
 
 Test Python
