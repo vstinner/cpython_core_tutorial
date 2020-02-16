@@ -102,7 +102,7 @@ Responsability for bug tracker:
 * Adjust Python version, component, bug type, etc.
 * Rewrite the issue title if needed
 * Close duplicated bugs as DUPLICATE
-* Close irrevelant bugs as NOTABUG
+* Close irrelevant bugs as NOTABUG
 
 Nice to have, but not a strong requirement:
 
@@ -116,7 +116,7 @@ Give bug triage permission to a contributor
 A core developer has to identify an active contributor on the bug tracker, or a
 contributor can also ask for more power themselves.
 
-If the contributor reachs the requirements listed in the previous section, the
+If the contributor reaches the requirements listed in the previous section, the
 core developer give them triage.
 
 .. _menthor:
@@ -201,7 +201,7 @@ least the experienced ones.
 CPython lifecycle
 -----------------
 
-Know the project's lifecycle: Python has multiple maitained branches, some of
+Know the project's lifecycle: Python has multiple maintained branches, some of
 them accept bugfixes, others only security fixes. Deciding if a fix can or
 cannot be backported is a complex question.
 
@@ -219,7 +219,7 @@ able to figure it out by themselves and doesn't rush merge it.  Of course,
 nobody is perfect, which is why non-trivial code written by core developers
 ideally goes through a review phase anyway. But a general sense of what is
 "in good state for review/merging" vs. "just a draft I'm working on" is
-indeed preferrable.
+indeed preferable.
 
 Maintain pushed code
 --------------------
