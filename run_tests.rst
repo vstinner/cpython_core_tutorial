@@ -28,7 +28,7 @@ Run tests
 
 Type::
 
-    $ ./python -m test -v test_httpservers
+    $ ./python.exe -m test -v test_httpservers
 
 We expect that tests fail::
 
@@ -63,7 +63,7 @@ Find the code of the failing tests, see most recent call in the traceback::
       File ".../Lib/test/test_httpservers.py", line 726, in test_post
         res = self.request('/cgi-bin/file2.py', 'POST', params, headers)
 
-Open Lib/test/test_httpservers.py line 726::
+Open Lib/test/test_httpservers.py and go to the respective line (line 726 in this case)::
 
     def test_post(self):
         params = urllib.parse.urlencode(
@@ -88,7 +88,7 @@ Run the whole test suite
 
 Run the whole test suite::
 
-    ./python -m test -j0 -rW
+    ./python.exe -m test -j0 -rW
 
 Flags:
 

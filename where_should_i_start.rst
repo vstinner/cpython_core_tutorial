@@ -69,7 +69,7 @@ contribute, how should I start?
   * Make sure that a change is carefully documented. For example, behaviour
     changes and enhancements must have the "..  versionchanged:: x.y" markup in
     the documentation of the module.
-    New features must be have the ".. versionadded:: x.y" tag and maybe also
+    New features must have the ".. versionadded:: x.y" tag and maybe also
     documented in "What's New in Python X.Y?" documentation.
   * The NEWS entry and commit message must first explain the solved problem,
     then maybe explain the change itself. While the commit message can be

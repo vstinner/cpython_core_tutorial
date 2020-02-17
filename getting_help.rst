@@ -4,7 +4,7 @@ Getting Help
 ============
 
 This tutorial is an early draft. It is likely that you will quickly be blocked
-by an incomplete section (like "XXX") or a missing section. Don't hesistate to
+by an incomplete section (like "XXX") or a missing section. Don't hesitate to
 complain, ask for help, and report issues!
 
 Active Core Developers

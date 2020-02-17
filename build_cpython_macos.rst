@@ -52,11 +52,11 @@ Test the Python REPL:
 * Run Python: type ``./python.exe``.
 * Import the ssl module: ``import ssl``. If the import works, you are good.
   Otherwise, you missed some dependencies.
-* Exit Python
+* Exit Python (``quit()``).
 
 Run the test_os unit test::
 
-    ./python -m test test_os
+    ./python.exe -m test test_os
 
 Expected output (something like this)::
 
