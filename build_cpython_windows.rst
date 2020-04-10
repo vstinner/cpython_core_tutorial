@@ -35,7 +35,7 @@ Build CPython in the command line
 
   * ``-e``: download external dependencies (OpenSSL, Tkinter, ...)
   * ``-d``: build in debug mode (``Py_DEBUG``, enable assertions, ...)
-  * ``-x p64``: build in 64-bit mode
+  * ``-p x64``: build in 64-bit mode
 
 Run Python
 ----------
