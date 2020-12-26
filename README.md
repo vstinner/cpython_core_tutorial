@@ -11,8 +11,7 @@ The short term goal is to fill the gap in the current devguide between
 "compile/install python" and "congrats! you are now a CPython core developer!".
 Document all the things expected to be known to become a core developer.
 
-See also `Brainstorm: CPython tutorial
-<https://vstinner.readthedocs.io/brainstorm_cpython_tutorial.html>`_.
+See also [Brainstorm: CPython tutorial](https://vstinner.readthedocs.io/brainstorm_cpython_tutorial.html).
 
 # Gamification
 
