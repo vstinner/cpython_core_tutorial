@@ -21,19 +21,19 @@ months.
 Developers available to mentor new contributors:
 
 * Victor Stinner, lives in France, works for Red Hat, core dev since 2010.
-  IRC nickname: ``vstinner`` on Freenode.
+  IRC nickname: ``vstinner`` on Libera.Chat.
   Timezone: `France (Paris) local clock <https://www.timeanddate.com/worldclock/france/paris>`_.
 
 * Zachary (Zach) Ware, living in the US (midwest), working as an independent
   consultant, core dev since 2013.
-  IRC nickname: ``zware`` on Freenode.
+  IRC nickname: ``zware`` on Libera.Chat.
   Timezone: `US/Central <https://www.timeanddate.com/worldclock/usa/chicago>`_.
 
 #python-dev channel
 -------------------
 
-The IRC ``#python-dev`` channel of the `Freenode server
-<http://freenode.net/>`_.
+The IRC ``#python-dev`` channel of the `Libera.Chat server
+<https://libera.chat/>`_.
 
 Some nicknames:
 
@@ -62,7 +62,7 @@ Contributors are also encouraged to help other contributors since new comers
 are the most experienced in issues to start contributing for CPython :-)
 
 * Stéphane Wirtel, living in Belgium, working as an independent consultant, contributor since 2014.
-  IRC nickname: ``matrixise`` on Freenode.
+  IRC nickname: ``matrixise`` on Libera.Chat.
   Timezone: `Europe/Brussels <https://www.timeanddate.com/worldclock/belgium/brussels>`_.
 
 Looking for help on a specific Python module
