@@ -17,7 +17,7 @@ Get tools and dependencies
 * Install OpenSSL: ``brew install openssl``
 * Install readline: ``brew install readline``
 * Clone the `GitHub cpython project <https://github.com/python/cpython/>`_: ``git clone
-  https://github.com/python/cpython.git`` which creates a ``cpython/`` directory.
+  git@github.com:python/cpython.git`` which creates a ``cpython/`` directory.
   The history starts in 1991 so be patient, the clone can take several minutes!
 
 Build CPython
