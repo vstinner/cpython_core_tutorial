@@ -15,7 +15,7 @@ Get tools and dependencies
   * Debian: ``sudo apt-get install -y git-core``
 
 * Clone the `GitHub cpython project <https://github.com/python/cpython/>`_: ``git clone
-  https://github.com/python/cpython.git`` which creates a ``cpython/`` directory.
+  git@github.com:python/cpython.git`` which creates a ``cpython/`` directory.
   The history starts in 1991 so be patient, the clone can take several minutes!
 
 * Get CPython dependencies:
