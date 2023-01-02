@@ -69,7 +69,7 @@ Manually
 
 * git push origin HEAD
 * Open https://github.com/python/cpython and click on "New pull request"
-* Select the base fork: ``python/cpython`` and base branch: ``master``
+* Select the base fork: ``python/cpython`` and base branch: ``main``
 * Select the head fork: ``<username>/cpython`` and base branch: the branch
 * Press ``Create Pull Request`` button
 

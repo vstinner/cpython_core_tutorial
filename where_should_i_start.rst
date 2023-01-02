@@ -15,7 +15,7 @@ to get some ideas.
 
 * To start, the best is maybe to look at recent commits to see what is
   currently done to get some ideas:
-  https://github.com/python/cpython/commits/master
+  https://github.com/python/cpython/commits/main
 * Look also at active bugs: see https://bugs.python.org/ homepage, and maybe
   the second and third pages
 * You may also look at ideas currently discussed on the

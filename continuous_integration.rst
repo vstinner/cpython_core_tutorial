@@ -32,10 +32,10 @@ integration, but tests are run as post-commit: see `Python buildbots
 
 Buildbot "waterfall" views:
 
-* `Python master ("3.x") <http://buildbot.python.org/all/waterfall?category=3.x.stable&category=3.x.unstable>`_
-* `Python 3.6 <http://buildbot.python.org/all/waterfall?category=3.6.stable&category=3.6.unstable>`_
-* `Python 3.5 <http://buildbot.python.org/all/waterfall?category=3.5.stable&category=3.5.unstable>`_
-* `Python 2.7 <http://buildbot.python.org/all/waterfall?category=2.7.stable&category=2.7.unstable>`_
+* `Python master ("3.x") <http://buildbot.python.org/all/#/waterfall?category=3.x.stable&category=3.x.unstable>`_
+* `Python 3.6 <http://buildbot.python.org/all/#/waterfall?category=3.6.stable&category=3.6.unstable>`_
+* `Python 3.5 <http://buildbot.python.org/all/#/waterfall?category=3.5.stable&category=3.5.unstable>`_
+* `Python 2.7 <http://buildbot.python.org/all/#/waterfall?category=2.7.stable&category=2.7.unstable>`_
 
 The buildbot configuration can be found in the `buildmaster-config project
 <https://github.com/python/buildmaster-config/>`_ (start with the

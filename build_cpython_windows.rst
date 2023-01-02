@@ -1,7 +1,7 @@
 Build CPython on Windows
 ========================
 
-Guide to build the master branch of CPython. Other Python versions need
+Guide to build the main branch of CPython. Other Python versions need
 a different Visual Studio version.
 
 To develop on CPython, the best is to enable all debug checks and so compile
