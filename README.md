@@ -1,3 +1,6 @@
+This old documentation is **no longer maintained**. Read the
+[Python Developer’s Guide](https://devguide.python.org/) instead.
+
 # Description
 
 Tutorial to contribute to the CPython project.
@@ -10,29 +13,6 @@ developers. That's the long term goal.
 The short term goal is to fill the gap in the current devguide between
 "compile/install python" and "congrats! you are now a CPython core developer!".
 Document all the things expected to be known to become a core developer.
-
-# Gamification
-
-* Give badges once a quest is complete
-* Use existing https://openbadges.org/ infra?
-* Different levels of badges?
-
-  * Big serious badges, maybe even publics, for major contributions.
-    For example, an accepted PEP. -- use openbadges for this?
-  * Minor badges, maybe kept private, not validated by third party like a
-    mentor. The student validates its own progress on clicking "I completed the
-    exercice". It's just a tool to make the tutorial more fun.
-
-* Personal but private statistics, account the number of:
-
-  * PR: proposed, rejected, accepted (merged)
-  * Emails sent
-  * Bugs: open, fixed, rejected
-  * Comments on bugs
-  * Reviews on PR
-  * XXX it may be difficult to account contributions on old CPython tools
-   like Rietveld (old reviewing system), Mercurial where the contributor
-   was not always mentionned, Subversion/CVS, etc.
 
 # Installation
 
